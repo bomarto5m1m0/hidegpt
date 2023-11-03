@@ -1,0 +1,2 @@
+READ ME !
+hide gpt is a chrome extension that integrates into chatGpt's website HTML and JS code, in order to manipulate the looks and behavior of chatGpt's interface. 
